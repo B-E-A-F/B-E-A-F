@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2>Hi, I'm Bea! 🐝</h2>
+<div align=center>
+  <h3>I'm currently working on <a href="https://seattlesafeeats.com">Seattle Safe Eats</a></h3>
+</div>
+<div align=center>
+   <a href="https://seattlesafeeats.com">
+    <img src="https://github.com/ArcherScript/sea-safe-eats/blob/main/static/og-undefined.png?raw=true" width="450">
+  </a>
+</div>
 
 <!--
 **ArcherScript/ArcherScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
