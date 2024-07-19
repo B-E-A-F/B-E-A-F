@@ -1,10 +1,10 @@
 <h2>Hi, I'm Bea! 🐝</h2>
 
-🏳️‍⚧️ Trans
-
 👩🏼‍💻 Currently enjoying developing in Svelte & Node.js
 
 🛫 Working at Alaska Airlines
+
+🐧 Pop!_OS
 
 <h2> </h2>
 
@@ -19,7 +19,6 @@
 </div>
 
 <h2> </h2>
-
 <br />
 
 <div align=center>
