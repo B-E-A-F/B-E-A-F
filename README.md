@@ -6,6 +6,8 @@
 
 🐧 Pop!_OS
 
+❌ Does not know HTML
+
 <h2> </h2>
 
 <div align=center>
@@ -14,7 +16,7 @@
 
 <div align=center>
    <a href="https://seattlesafeeats.com">
-    <img src="https://github.com/ArcherScript/sea-safe-eats/blob/main/static/og-undefined.png?raw=true" width="450" />
+    <img src="https://github.com/ArcherScript/sea-safe-eats/blob/main/static/og-undefined.png?raw=true" width="350" />
   </a>
 </div>
 
