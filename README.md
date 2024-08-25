@@ -20,6 +20,16 @@
   </a>
 </div>
 
+<div align="center">
+  <h3>I'm also the "algorithm specialist" for <a href="https://oghunt.com">OGHUNT - ZERO AI Slop™</a></h3>
+</div>
+
+<div align=center>
+   <a href="https://seattlesafeeats.com">
+    <img src="https://github.com/Hacksore/oghunt/blob/yippe/public/no-slop-og.png" width="350" />
+  </a>
+</div>
+
 <h2> </h2>
 <br />
 
