@@ -1,15 +1,5 @@
 <h2>Hi, I'm Bea! 🐝</h2>
 
-👩🏼‍💻 Currently enjoying developing in Svelte & Node.js
-
-🛫 Working at Alaska Airlines
-
-🐧 Pop!_OS
-
-❌ Does not know HTML
-
-<h2> </h2>
-
 <div align=center>
   <h3>I'm currently working on <a href="https://seattlesafeeats.com">Seattle Safe Eats</a></h3>
 </div>
