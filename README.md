@@ -24,7 +24,7 @@
 <br />
 
 <div align=center>
-  <a href="https://x.com/archer_script"><img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/chaos.png?raw=true" /></a>
+  <a href="https://x.com/_B_E_A_F_"><img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/chaos.png?raw=true" /></a>
   <a href="https://linkedin.com/in/beaarcher"><img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/regret.png?raw=true" /></a>
   <a href="https://a4r.dev"><img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/corrupt.png?raw=true" /></a>
 </div>
