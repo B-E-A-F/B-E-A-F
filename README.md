@@ -6,7 +6,7 @@
 
 <div align=center>
    <a href="https://seattlesafeeats.com">
-    <img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/og-undefined.png?date=11-29-2024" width="350" />
+    <img src="https://github.com/ArcherScript/ArcherScript/blob/main/assets/og-undefinedv2.png" width="350" />
   </a>
 </div>
 
